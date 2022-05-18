@@ -1,0 +1,16 @@
+.venv
+.vscode
+.env
+.python-version
+.mypy_cache
+
+data
+saved_models/*
+
+results
+experiments
+runs
+logs
+
+**/__pycache__
+
