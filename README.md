@@ -8,6 +8,10 @@ Curated files for SROIE and Pre-Trained models can be downloaded at the followin
 
 `data` and `saved_models` folders should be placed at the root of the repository. Saved models folders should be placed directly under `saved_models` for the scripts to work properly.
 
+## Slides and Presentation
+
+Presentation slides used during the conference are available in the `slides` directory.
+
 ## Pre-training (no data provided)
 
 Coming soon
