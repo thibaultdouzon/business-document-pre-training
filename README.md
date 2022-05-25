@@ -10,6 +10,7 @@ Curated files for SROIE and Pre-Trained models can be downloaded at the followin
 
 ## Slides and Presentation
 
+![Preview of the first slide of the presentation used at DAS2022](slides/preview.png)
 Presentation slides used during the conference are available in the `slides` directory.
 
 ## Pre-training (no data provided)
@@ -26,9 +27,9 @@ coming soon
 
 ## Citation
 
-doi: https://doi.org/10.1007/978-3-031-06555-2_8
+doi: `10.1007/978-3-031-06555-2_8`
 
-cite this work:
+Cite this work:
 ```bib
 @InProceedings{10.1007/978-3-031-06555-2_8,
 author="Douzon, Thibault
